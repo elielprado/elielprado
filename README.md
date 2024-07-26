@@ -32,7 +32,7 @@ Hello! I am Eliel Prado, a Computer Engineering undergraduate student and Aviati
 ![Zabbix](https://img.shields.io/badge/-Zabbix-FF9E0F)
 
 ## Languages
-
+- **Portuguese (Brazil)**: Native
 - **English**: Intermediate
 - **German**: Beginner
 
